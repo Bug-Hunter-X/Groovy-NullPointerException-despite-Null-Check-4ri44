@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Groovy related to null handling.  The `bug.groovy` file contains code that appears to correctly handle null input but still throws a `NullPointerException`. The `bugSolution.groovy` file shows the corrected version.
